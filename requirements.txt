@@ -1,0 +1,22 @@
+# This file is part of CorPipe <https://github.com/ufal/crac2026-corpipe>.
+#
+# Copyright 2026 Institute of Formal and Applied Linguistics, Faculty of
+# Mathematics and Physics, Charles University in Prague, Czech Republic.
+#
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+# CorPipe
+minnt~=1.1
+torch~=2.10.0
+transformers~=5.2.0
+sentencepiece
+udapi~=0.5.1
+
+# CorefUD Scorer
+pytest
+scipy
+
+# Validator
+regex
