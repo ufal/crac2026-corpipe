@@ -6,10 +6,6 @@ is described in the following paper:
 
 ---
 
-<img src="figures/corpipe26_1stage.svg" alt="CorPipe 26 One-stage Architecture" align="right" style="width: 18.3%">
-<img src="figures/corpipe26_2stage.svg" alt="CorPipe 26 Two-stage Architecture" align="right" style="width: 28%">
-<img src="figures/crac26_empty_nodes_baseline.svg" alt="CRAC 26 Empty Nodes Baseline" align="right" style="width: 13.6%">
-
 <h3 align="center"><a href="https://aclanthology.org/2026.codi-1.27">CorPipe at CRAC 2026: Empty Nodes and Cross-Lingual Transfer in Multilingual Coreference Resolution</a></h3>
 
 <p align="center">
@@ -18,7 +14,13 @@ is described in the following paper:
   Faculty of Mathematics and Physics<br>
   Institute of Formal and Applied Lingustics<br>
   Malostranské nám. 25, Prague, Czech Republic
-</p> <br clear="both">
+</p>
+
+<p align="center">
+  <img src="figures/corpipe26_1stage.svg" alt="CorPipe 26 One-stage Architecture" style="width: 18.3%">
+  <img src="figures/corpipe26_2stage.svg" alt="CorPipe 26 Two-stage Architecture" style="width: 28%">
+  <img src="figures/crac26_empty_nodes_baseline.svg" alt="CRAC 26 Empty Nodes Baseline" style="width: 13.6%">
+</p>
 
 **Abstract:** We introduce CorPipe 26, our winning submission to the CRAC 2026
 Shared Task on Multilingual Coreference Resolution. The fifth edition of this
