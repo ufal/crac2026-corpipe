@@ -61,7 +61,7 @@ https://github.com/ufal/crac2026-corpipe.
 
 # The Released Models
 
-Three pretrained CorPipe 26 models have been released under the CC BY-NC-SA 4.0 license
+Six pretrained CorPipe 26 models have been released under the CC BY-NC-SA 4.0 license
 on [LINDAT/CLARIAH-CZ](https://hdl.handle.net/11234/1-6205) and on HuggingFace:
 - [corpipe26-onestage-corefud1.4-base-260702](https://huggingface.co/ufal/corpipe26-onestage-corefud1.4-base-260702)
 - [corpipe26-onestage-corefud1.4-large-260702](https://huggingface.co/ufal/corpipe26-onestage-corefud1.4-large-260702)
